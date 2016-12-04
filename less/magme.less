@@ -1,3 +1,386 @@
-body{
-	background-color: #000;
+@blueMagme: #5190D7;
+@marineMagme: #4AE3E4;
+@grayMagme: #EDEDED;
+@red: #ff0000;
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  // position: relative;
+  // overflow-x: hidden;
+}
+body,
+html {
+  height: 100%;
+}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: transparent;
+}
+section {
+  width: 100%;
+}
+
+
+// Menu
+// Pozycja paska menu
+
+#menu{
+	padding: 50px;
+}
+
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+    font-size:12px
+}
+
+#login-dp .top{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:10px;
+}
+
+#login-dp .top ul {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+}
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}
+
+.navbar-rigth {
+	color: #fff;
+}
+
+// Second level menu -
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+.dropdown-submenu:hover > a:after {
+  border-left-color: #fff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left > .dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+}
+
+// Logo
+
+#logo img {
+
+  width: 200px;
+  margin-top: -20px;
+}
+
+
+#hero .carousel .item {
+  width: 100%;
+
+  img{
+    width: 100%;
+  }
+}
+
+ #hero{
+
+      .carousel-caption{
+
+        top: 30%;
+        bottom: auto;
+
+        h1 {
+          font-family: 'Roboto';
+          font-size: 8em;
+          font-weight: 300;
+          text-transform: uppercase;
+          line-height: .8;
+
+         .blueMagme{
+          color: @blueMagme;
+         }
+
+         .marineMagme{
+          color: @marineMagme;
+         }
+
+        }
+
+      }
+
+}
+
+
+// Section O-Nas
+
+#oNas {
+padding-top: 0px;
+background-image: url(../images/bg1.jpg);
+background-size: cover;
+background-attachment: fixed;
+height: 100%;
+padding-bottom: 0px;
+
+        .leftMagme{
+          background-color: #EDEDED;
+          color: #213B57;
+
+          .jumbotron.magme{
+            margin-bottom: 0;
+            padding-bottom: 2%;
+
+            span{
+              color: @red;
+            }
+          }
+        }
+
+        .rightMagme{
+              // width: 0;
+              // height: 0;
+               padding-bottom: 20%;
+               //  padding-left: 25.4%;
+               // overflow: hidden;
+        }
+
+        // .rightMagme:after {
+        //         content: "";
+        //         display: block;
+        //         width: 0;
+        //         height: 0;
+        //         margin-left: -400px;
+        //         border-bottom: 500px solid transparent;
+        //         border-left: 400px solid #EDEDED;
+        // }
+}
+
+
+#oferta{
+  background-image: url(../images/bg2.jpg);
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+      .jumbotron{
+        background-color: transparent;
+        color: @grayMagme;
+      }
+
+      .columnOferta{
+        color: @grayMagme;
+
+        span{
+          color: @grayMagme;
+          font-size: 8em;
+
+        }
+
+      }
+
+}
+
+#kontakt{
+  padding-top: 5%;
+  background-image: url(../images/bg3.jpg);
+  background-attachment: fixed;
+  height: 500px;
+
+    .page-header{
+      border-bottom: none;
+      color: @grayMagme;
+
+      small{
+        color: #5190D7;
+      }
+
+      address{
+        padding-top: 5%;
+      }
+
+    }
+}
+
+
+#stopka{
+
+  padding-top: 4rem;
+  font-weight: 100;
+  padding-bottom: 2rem;
+  text-align: left;
+  background-color: #000;
+  color: #5C6871;
+
+      img {
+        float: right;
+        margin-left: 1rem;
+        width: 5%;
+
+           &:hover{
+          -webkit-animation: pulse .8s ease;
+          -o-animation: pulse .8s ease;
+          animation: pulse .8s ease;
+          }
+        }
+}
+
+
+@media (max-width: 460px) {
+
+
+	#menu{
+
+		padding: 0;
+	}
+
+	.navbar-inverse {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+  #hero {
+
+    height: 27rem;
+
+    	.carousel-inner{
+    		height: 270px;
+
+    		img{
+    			height: 150%;
+    		}
+    	}
+
+    .carousel-caption h1 {
+    font-size: 2em;
+    }
+  }
+
+#hero .carousel .item {
+  width: 100%;
+  height: auto;
+  padding-top: 90px;
+}
+
+  #logo img {
+    -webkit-transform: scale(.9);
+       -moz-transform: scale(.9);
+        -ms-transform: scale(.9);
+         -o-transform: scale(.9);
+            transform: scale(.9);
+  }
+
+}
+
+@media (max-width: 680px){
+
+     #hero .carousel-caption h1 {
+        font-size: 3em;
+  }
+
 }
