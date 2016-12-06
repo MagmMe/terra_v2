@@ -4935,9 +4935,9 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
   color: inherit;
   background-color: #eeeeee;
 }
@@ -4946,7 +4946,7 @@ a.badge:focus {
   color: inherit;
 }
 .jumbotron p {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   font-size: 21px;
   font-weight: 200;
 }
@@ -4964,13 +4964,13 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 80px;
+    padding-bottom: 80px;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
@@ -7039,6 +7039,36 @@ section {
   text-decoration: none;
   background-color: transparent;
 }
+.terraHead .jumbotron {
+  padding: 170px 100px 120px;
+  background-image: url(../images/about_header3.jpg);
+  background-size: cover;
+}
+.terraHead .jumbotron h1,
+.terraHead .jumbotron p {
+  color: #EDEDED;
+}
+.rightColumn {
+  padding-top: 40px;
+  padding-right: 60px;
+}
+.rightColumn h2 {
+  font-size: 5rem;
+  padding-bottom: 1rem;
+}
+#aboutTwo {
+  background-color: #2D3239;
+  color: #fff;
+}
+#aboutTwo .areaLeft {
+  padding: 100px 20px 100px 20px;
+}
+#aboutTwo .areaRight {
+  padding-top: 100px;
+}
+#aboutTwo .areaRight h1 {
+  font-size: 29rem;
+}
 @media (max-width: 460px) {
   #menu {
     padding: 0;
@@ -7074,6 +7104,9 @@ section {
     -ms-transform: scale(0.9);
     -o-transform: scale(0.9);
     transform: scale(0.9);
+  }
+  .terraHead .jumbotron {
+    padding: 120px 30px 30px 30px;
   }
 }
 @media (max-width: 680px) {

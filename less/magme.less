@@ -402,66 +402,43 @@ padding-bottom: 0px;
     background-color: transparent;
 }
 
+// O Firmie
+
+.terraHead .jumbotron {
+  padding: 170px 100px 120px;
+  background-image: url(../images/about_header3.jpg);
+  background-size: cover;
+
+}
+
+.terraHead .jumbotron h1, .terraHead .jumbotron p {
+  color: @grayMagme;
+}
 
 
+.rightColumn {
+  padding-top: 40px;
+  padding-right: 60px;
 
-// Media queries
+    h2{
+      font-size: 5rem;
+      padding-bottom: 1rem;
+    }
+}
 
+#aboutTwo {
+  background-color: #2D3239;
+  color: #fff;
 
-@media (max-width: 460px) {
-
-
-  #menu{
-
-    padding: 0;
+  .areaLeft{
+    padding: 100px 20px 100px 20px;
   }
 
-  .navbar-inverse {
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
+  .areaRight{
+    padding-top: 100px;
 
-  #hero {
-
-    height: 27rem;
-
-      .carousel-inner{
-        height: 270px;
-
-        img{
-          height: 150%;
-        }
-      }
-
-    .carousel-caption h1 {
-    font-size: 2em;
+    h1{
+      font-size: 29rem;
     }
   }
-
-  .carousel-indicators, .carousel-control {
-    display: none;
-  }
-
-#hero .carousel .item {
-  width: 100%;
-  height: auto;
-  padding-top: 90px;
-}
-
-  #logo img {
-    -webkit-transform: scale(.9);
-       -moz-transform: scale(.9);
-        -ms-transform: scale(.9);
-         -o-transform: scale(.9);
-            transform: scale(.9);
-  }
-
-}
-
-@media (max-width: 680px){
-
-     #hero .carousel-caption h1 {
-        font-size: 3em;
-  }
-
 }
