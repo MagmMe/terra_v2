@@ -404,11 +404,13 @@ padding-bottom: 0px;
 
 // O Firmie
 
-.terraHead .jumbotron {
-  padding: 170px 100px 120px;
+.terraHead .about {
   background-image: url(../images/about_header3.jpg);
   background-size: cover;
+}
 
+.terraHead .jumbotron {
+    padding: 170px 100px 120px;
 }
 
 .terraHead .jumbotron h1, .terraHead .jumbotron p {
@@ -428,7 +430,7 @@ padding-bottom: 0px;
 
 #aboutTwo {
   background-color: #2D3239;
-  color: #fff;
+  color: #ccc;
 
   .areaLeft{
     padding: 100px 20px 100px 20px;
@@ -442,3 +444,62 @@ padding-bottom: 0px;
     }
   }
 }
+
+// Team
+
+.terraHead .team {
+  background-image: url(../images/team_bg3.jpg);
+  background-size: cover;
+}
+
+#team{
+  padding-bottom: 60px;
+}
+
+#team h2 {
+  font-size: 5rem;
+  color: #55656F
+}
+
+#team .lead {
+  color: #55656F
+}
+
+#team .teamFadeIn {
+  width: 300px;
+  height: 300px;
+  -webkit-box-shadow: 12px 12px 15px 0 #000;
+  box-shadow: 2px 2px 5px 0 #000;
+  margin: 0 auto;
+  padding-bottom: 440px;
+  border-radius: 10px;
+  background-color: #ccc;
+  -webkit-transform: rotate(-3deg);
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 0.5s;
+  -webkit-transition-timing-function: ease-out;
+}
+
+#team .teamFadeIn:hover{
+-webkit-transform: scale(1.1);
+  position: relative;
+  z-index: 10;
+  -webkit-box-shadow: 12px 12px 15px 0 #132112;
+  box-shadow: 12px 12px 15px 0 #132112;
+}
+
+#team .teamRow{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#team .teamRow:nth-child(1n){
+    -webkit-transform: rotate(4deg);
+}
+#team .teamRow:nth-child(2n){
+    -webkit-transform: rotate(6deg);
+}
+#team .teamRow:nth-child(3n){
+    -webkit-transform: rotate(1deg);
+}
+
