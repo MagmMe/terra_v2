@@ -7103,21 +7103,21 @@ section {
   -webkit-transform: scale(1.1);
   position: relative;
   z-index: 10;
-  -webkit-box-shadow: 12px 12px 15px 0 #132112;
-  box-shadow: 12px 12px 15px 0 #132112;
+  -webkit-box-shadow: 5px 5px 5px 0 #132112;
+  box-shadow: 5px 5px 5px 0 #132112;
 }
 #team .teamRow {
   padding-top: 60px;
   padding-bottom: 60px;
 }
 #team .teamRow:nth-child(1n) {
-  -webkit-transform: rotate(4deg);
+  -webkit-transform: rotate(3deg);
 }
 #team .teamRow:nth-child(2n) {
-  -webkit-transform: rotate(6deg);
+  -webkit-transform: rotate(2deg);
 }
 #team .teamRow:nth-child(3n) {
-  -webkit-transform: rotate(1deg);
+  -webkit-transform: rotate(4deg);
 }
 @media (max-width: 460px) {
   #menu {
@@ -7157,6 +7157,28 @@ section {
   }
   .terraHead .jumbotron {
     padding: 120px 30px 30px 30px;
+  }
+  #team h2 {
+    font-size: 3rem;
+  }
+  #team .teamFadeIn {
+    width: 270px;
+    height: 200px;
+  }
+  #team .teamFadeIn {
+    -webkit-transform: rotate(0deg);
+  }
+  #team .teamRow {
+    padding: 60px 0 0px 0;
+  }
+  #team .teamRow:nth-child(1n) {
+    -webkit-transform: rotate(0deg);
+  }
+  #team .teamRow:nth-child(2n) {
+    -webkit-transform: rotate(0deg);
+  }
+  #team .teamRow:nth-child(3n) {
+    -webkit-transform: rotate(0deg);
   }
 }
 @media (max-width: 680px) {

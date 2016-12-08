@@ -1,0 +1,1228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pading",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"home",
+				"home-bg"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"bs3-ht",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"bs3-h",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"trans",
+				"transform\tCSS - transform: ;"
+			],
+			[
+				"tra",
+				"transform\tCSS - transform: ;"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"anima",
+				"animation-timing-function"
+			],
+			[
+				"animation-d",
+				"animation-duration"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"anim",
+				"anim-\tanimation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"transiti",
+				"transition-timing-function"
+			],
+			[
+				"transit",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"insert",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"getele",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"do",
+				"document\tDocument"
+			],
+			[
+				"crea",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"inse",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"app",
+				"appendChild(aChild)\tNode"
+			],
+			[
+				"cre",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"q",
+				"querySelector(selectors)\tElement"
+			],
+			[
+				"Ima",
+				"new Image()"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Im",
+				"new Image()"
+			],
+			[
+				"textN",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"getelement",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"geteleme",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"cono",
+				"console.log()"
+			],
+			[
+				"qu",
+				"querySelectorAll(selectors)\tElement"
+			],
+			[
+				"getelem",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"clear",
+				"clearInterval(intervalID)\tWindow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"setTi",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"t",
+				"throw"
+			],
+			[
+				"new",
+				"new Error(message)\tError"
+			],
+			[
+				"get",
+				"getDate()\tDate"
+			],
+			[
+				"Mat",
+				"Math.random()\tMath"
+			],
+			[
+				"Ma",
+				"Math.PI\tMath"
+			],
+			[
+				"l",
+				"length\tString"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"delete",
+				"delete(Object)\tObject"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"spl",
+				"splice(index, howMany)\tArray"
+			],
+			[
+				"sp",
+				"splice(index, howMany)\tArray"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"un",
+				"unshift(element1)\tArray"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"func",
+				"new Function()\tFunction"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"czlowiek",
+				"czlowiek2"
+			],
+			[
+				"dow",
+				"do while()"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"alert",
+				"alert(message)\tWindow"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"ale",
+				"alert(message)\tWindow"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"conta",
+				"container_width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bs3-t",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"wi",
+				"width\tStyle CSS"
+			],
+			[
+				"transition-",
+				"transition-duration"
+			],
+			[
+				"bl",
+				"blur()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flex-sh",
+				"-webkit-flex-shrink"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"colu",
+				"column-reverse"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"ite",
+				"justify-items"
+			],
+			[
+				"ov",
+				"ov-h\toverflow: hidden;"
+			],
+			[
+				"fl",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"flex-gr",
+				"-webkit-flex-grow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"justi",
+				"justify-content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"synt ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synt h",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt",
+				"Set Syntax: CSS3"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"bs3 h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn  cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"SYN JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"fect",
+				"Fetch: Manage"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"styn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sty",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syn",
+				"Set Syntax: Less"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"synt css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"File",
+				"File: Copy as Tag style"
+			],
+			[
+				"file",
+				"File: Copy as Tag script"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"synt hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"net",
+				"File: New File Relative to Current View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"synt java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"sni bs3",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"sni",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"styn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"SYN HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn c",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fetch ",
+				"Fetch: Manage"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: div",
+				"Snippet: <div>"
+			],
+			[
+				"pacga",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2"
+	],
+	"file_history":
+	[
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/07020FBE-B84A-4813-B3DF-82EB0022293F/jquery.cookiebar.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A0AE9CAA-0CB1-40DA-BA5A-BF50624F744B/magme.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/576205A7-3F6D-4D52-B306-804BFCE9A6EA/jquery.cookiebar.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A9760E70-4C63-4C0F-82CC-18ECD3C39FB6/index.html",
+		"/Users/MarcinMagiera/Downloads/jquery/jquery.cookiebar.css",
+		"/Users/MarcinMagiera/Downloads/jquery/index.html",
+		"/Users/MarcinMagiera/Downloads/jquery/jquery.cookiebar.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/884EC289-39DF-4516-9AA8-F83FD116E151/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1C019484-4CF8-41ED-8EAB-406E524262DC/wp-activate.php",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js/magmeScript.js",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/less/variables.less",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/less/bootstrap.less",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/less/style.less",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/index.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/index.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/index2.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/less/bootstrap.less",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/594EBCE4-65AF-4B61-94E4-63C1196EA2F0/header.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/87F51256-C89E-4624-A614-F673D903EA10/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/o_nas.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/maszyny.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/materialy.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/materialySingle.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/product.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/skup.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/kontakt.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/katalogi.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/czesciSingle.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/czesci.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/index.html",
+		"/Users/MarcinMagiera/Desktop/Max6/urls-sites_EN",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/180A0545-5EB0-4186-BC8C-9B976E82F2BE/o_nas.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/less/magme.less",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/164E83EF-09F3-4F1F-A80A-20C45EC595B5/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/js/magme.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/08AD30BD-1BDE-4E85-B588-1A9E27D0C179/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/E2DCA157-0D3C-4434-9916-F737522A5FF7/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B99F0DC5-ECE6-4B77-A598-D757E427AE4B/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/EC93DE77-A1BF-404A-9C72-20AD39F7B838/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3034F0CB-3103-46A1-BB35-D3D854D9FF80/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/ACC78B1B-12F7-4C4A-90DD-B287E3898341/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/E35B7372-8FCE-465F-BCDA-944248997868/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/15F48731-7F50-48EC-AE56-601D0D68944A/style.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#0/style.css",
+		"/Users/MarcinMagiera/Desktop/Max6/Strona/Łopaty/Fonty",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/46CA7506-1F07-48EB-B8EF-B09BDE9BC328/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/5767B564-3F3A-4B1D-809E-442172509DF1/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/0C360D17-E70F-46BA-BF3C-4023768A8571/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/614B0DE1-89AD-4182-8D50-EA633CD74785/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/14B48D7C-A683-433D-8E1E-EA352333A1D0/style.css",
+		"/Users/MarcinMagiera/Desktop/gorecki-zmienionepliki/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C22A694B-EBC9-48E8-8269-818F6E1EC366/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/less/style.less",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/less/bootstrap.less",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/docs/about.html",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/evaluate_javascript/Evaluate-JavaScript.sublime-settings",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/helper/helper.sublime-settings",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/User/helper.sublime-settings",
+		"/Users/MarcinMagiera/Downloads/bootstrap-3.3.7/docs/getting-started.html",
+		"/Users/MarcinMagiera/Downloads/bootstrap-sass-3.3.7/README.md",
+		"/Users/MarcinMagiera/Downloads/apple-iphone5s-website-one-page-scroll/css/style.css",
+		"/Users/MarcinMagiera/Downloads/apple-iphone5s-website-one-page-scroll/css/onepage-scroll.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/index.html",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/less/style.less",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/readme.md",
+		"/Users/MarcinMagiera/Desktop/Nikta/Menu_slide/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/bootstrap-3.3.7/docs/getting-started.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/bootstrap-3.3.7/docs/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/bootstrap-sass-3.3.7/README.md",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/DC709969-42A0-494C-88C7-D8F8D1091C9B/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BA4AD616-294C-4EC1-A21C-A80A3E87EA63/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/619FF174-F5E4-4F8D-A542-5CA1FA02898D/index.html",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/images/TerragraphLogo.png",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/71EDCDD1-CDBE-4AAE-9C70-AE241E0366FF/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/88C4C8CF-0703-4C05-B0AE-1B80F6892771/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6A829D55-AFC1-4FC4-885D-2282526004CE/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C0055E1B-97EE-4F7F-AEC2-F5C25BA55E9D/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C77A3280-A567-4865-B014-22D0DFB28973/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1D94C0FA-2056-4C0B-9C7E-FF6A7DFEB458/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A26ABA88-76CB-41A0-9AE2-8E45C616A80D/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D8BE2B45-0DE7-47B7-B3E3-F7F45814C1FC/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2920E20F-11EE-4EF1-981F-FC1AB5B2E190/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B84600F0-BDEA-42CF-B3F2-AC0163F17F80/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/63243D37-CDFB-4478-ADD2-D2160CF58924/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/32E1F5B8-2884-4EB6-B821-A02D454D4C31/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/AEA9FD7D-A725-4A21-A287-9ADCD45E2944/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/EAE0CE71-3884-4AAE-9BFA-BF5F5F677F65/index.html",
+		"/Users/MarcinMagiera/Downloads/startbootstrap-scrolling-nav-gh-pages/js/scrolling-nav.js",
+		"/Users/MarcinMagiera/Downloads/Linearicons-Free-v1.0.0/Desktop Font/demo-files/demo.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/config.codekit",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2277A44F-0DA9-4DA1-BFA1-F3D4660E9AE4/global.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/E3849199-E092-440E-8A83-8714AB53B909/index.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/index.html",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/info.txt",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/css/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB8BB7CD-C192-4E39-872F-63A6FC6CDBFF/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BB3ED5AB-8653-44D5-90AF-D7BB28A2BA0C/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/0D763F64-7A02-4B45-8A17-B3D6F984C02F/styles.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/309E6EDA-3022-4ABD-AE92-F7893DE5731C/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/569DBCCA-3EF1-47FE-9468-4A73CB73FBE0/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/4E367303-D010-44F2-BB8F-C5B36A5FC1DE/styles.css",
+		"/Users/MarcinMagiera/Desktop/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3338419B-23BF-48E7-8C09-4AB4D6E5757E/style.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js/npm.js",
+		"/Users/MarcinMagiera/Desktop/global.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/ED30A6F9-07DD-4B4D-9345-0B23BEC9C6FE/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3E83C228-5201-4A2A-8352-BA4DB219B96C/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B3160F66-E45B-4D20-A65B-61700A1CAC78/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2AC7F781-CA90-4B57-BCE4-1E27855C6945/style.css",
+		"/Users/MarcinMagiera/Desktop/Rafolo/index.html",
+		"/Users/MarcinMagiera/Desktop/Rafolo/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44DE7512-7068-440D-873F-2E0458F28E52/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44727E20-3BDA-43B7-BDBD-0DFE4BCDE953/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8DAD35A8-66EF-422C-912C-9E4101D89F42/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6C65A2A1-AF39-4CC4-9C1A-7A40CDD0D450/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/06444034-1813-4FD6-9717-DAA38DC465F8/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/576FBF16-1659-428F-8048-E30332EB2F6B/custom-admin.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2E26AFA7-DCFB-4F0D-85A0-52F9551B73DB/options.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".jumbotron",
+			"dropdown-menu",
+			"dropdown",
+			"h5",
+			"h4",
+			"h5",
+			" </",
+			"01L0491",
+			"Atom",
+			"   \n",
+			"footer",
+			"h2",
+			".black-overlay",
+			"black-overlay",
+			"important",
+			"!important;",
+			"!important",
+			"header",
+			"font-family",
+			"large-3",
+			"h2",
+			"share",
+			"all",
+			"media",
+			"share",
+			"'share'",
+			"share",
+			".share",
+			"share",
+			"large-12",
+			"Recenzje",
+			"background",
+			"'league tables'",
+			"%;",
+			"div",
+			"\n.",
+			"accessibilityCss",
+			"#accessibilityCss",
+			"section",
+			"seciotn",
+			"$result",
+			"$",
+			"height",
+			"backgroudn",
+			"background",
+			"\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis consequatur ea velit nihil, qui dignissimos tenetur, aperiam tempore veniam, harum voluptatum sed. Aliquid illum consectetur, minus ad natus, harum consequatur.\n\t\n\n\t<div>\n\t\t<ul>\n\t\t\t<li>zero</li>\n\t\t\t<li>One</li>\n\t\t\t<li>Two</li>\n\t\t\t<li>Three</li>\n\t\t\t<li>Five</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t</ul>\n\t</div>\n\n",
+			"div",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum facilis at qui similique rem modi fugiat? Placeat suscipit odio ratione sit fugit similique ipsam. Autem similique corrupti consequatur! Excepturi, voluptates.\n",
+			"data",
+			"likked",
+			"link",
+			"menu",
+			"\t\t\t\t\t\n",
+			"bar",
+			"icon-bar\"></span>\n\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t<span class=\"icon-b",
+			"bar",
+			"icon-bars",
+			"icon-bar",
+			"()\">",
+			"home section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"icon-bar",
+			"icon-bars"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 88.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "terra_v2.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"cu",
+				"js/custom.js"
+			],
+			[
+				"si",
+				"single.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"boo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"in",
+				"~/Documents/www/My Websides/6. Bootstrap/App/index.html"
+			],
+			[
+				"bo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"boot",
+				"js/bootstrap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

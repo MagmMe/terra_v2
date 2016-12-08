@@ -1710,6 +1710,18 @@
 		"oA": 2,
 		"oAP": "\/team.html",
 		"oF": 0
+		},
+	"\/terra_v2.sublime-project": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/terra_v2.sublime-project",
+		"oF": 0
+		},
+	"\/terra_v2.sublime-workspace": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/terra_v2.sublime-workspace",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -1724,7 +1736,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
