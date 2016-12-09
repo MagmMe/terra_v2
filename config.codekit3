@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/career.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/career.html",
+		"oF": 0
+		},
 	"\/css\/animate.css": {
 		"aP": 0,
 		"bl": 0,
@@ -199,6 +205,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/bruce.jpg": {
+		"ft": 16384,
+		"iS": 58685,
+		"oA": 0,
+		"oAP": "\/images\/bruce.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/career.jpg": {
+		"ft": 16384,
+		"iS": 37086,
+		"oA": 0,
+		"oAP": "\/images\/career.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/icons\/facebook.png": {
 		"ft": 32768,
 		"iS": 1612,
@@ -228,6 +250,14 @@
 		"iS": 2307,
 		"oA": 0,
 		"oAP": "\/images\/icons\/vimeo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/js_ninja.jpg": {
+		"ft": 16384,
+		"iS": 54786,
+		"oA": 0,
+		"oAP": "\/images\/js_ninja.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -280,6 +310,14 @@
 		"oA": 2,
 		"oAP": "\/images\/Logo\/TerragraphLogo.tiff",
 		"oF": 0
+		},
+	"\/images\/security_ninja.jpg": {
+		"ft": 16384,
+		"iS": 77197,
+		"oA": 0,
+		"oAP": "\/images\/security_ninja.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/slider.jpg": {
 		"ft": 16384,
@@ -390,6 +428,14 @@
 		"iS": 23373,
 		"oA": 0,
 		"oAP": "\/images\/terragraphLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/windows_ninja.jpg": {
+		"ft": 16384,
+		"iS": 62193,
+		"oA": 0,
+		"oAP": "\/images\/windows_ninja.jpg",
 		"oF": 0,
 		"opt": 0
 		},

@@ -7119,6 +7119,77 @@ section {
 #team .teamRow:nth-child(3n) {
   -webkit-transform: rotate(4deg);
 }
+.outerMagme {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.terraHead .career {
+  background-image: url(../images/career.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#career .container-fluid {
+  background-color: #000;
+}
+#career .outerMagme {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+#career .careerIntro {
+  padding-top: 3%;
+  padding-left: 5%;
+  padding-right: 1%;
+  padding-bottom: 3%;
+}
+#career .careerIntro h3,
+#career .careerIntro h2,
+#career .careerIntro h1,
+#career .careerIntro h4 {
+  line-height: 4rem;
+  color: #8A8A8A;
+}
+#career .whiteBg {
+  background-color: #fff;
+}
+#career .wanted {
+  padding: 10%;
+}
+#career .wanted h1 {
+  font-size: 52px;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#career .wanted p {
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#career .gradientBg {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
+  background: #ffffff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ffffff 0%, #e5e5e5 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e5e5e5', GradientType=0);
+  /* IE6-9 */
+}
+#career .careerList {
+  padding: 0 10% 4% 10%;
+}
+#career .careerList .media-heading {
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#career .careerList p {
+  color: #8A8A8A;
+}
 @media (max-width: 460px) {
   #menu {
     padding: 0;
