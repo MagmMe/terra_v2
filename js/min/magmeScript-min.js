@@ -1,0 +1,1 @@
+function animationHover(n,a){n=$(n),n.hover(function(){n.addClass("animated "+a)},function(){window.setTimeout(function(){n.removeClass("animated "+a)},2e3)})}$(document).ready(function(){$(".magmeAnimation").each(function(){animationHover(this,"tada")})});

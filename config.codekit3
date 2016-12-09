@@ -261,6 +261,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/kontakt_bg.jpg": {
+		"ft": 16384,
+		"iS": 64302,
+		"oA": 0,
+		"oAP": "\/images\/kontakt_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 39032,
@@ -489,6 +497,12 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/kontakt.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/kontakt.html",
+		"oF": 0
 		},
 	"\/less\/.csscomb.json": {
 		"ft": 524288,
