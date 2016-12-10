@@ -9,6 +9,30 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/blogFour.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blogFour.html",
+		"oF": 0
+		},
+	"\/BlogOne.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/BlogOne.html",
+		"oF": 0
+		},
+	"\/BlogThree.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/BlogThree.html",
+		"oF": 0
+		},
+	"\/blogTwo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blogTwo.html",
+		"oF": 0
+		},
 	"\/career.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -202,6 +226,14 @@
 		"iS": 342656,
 		"oA": 0,
 		"oAP": "\/images\/bg3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog1.jpg": {
+		"ft": 16384,
+		"iS": 111763,
+		"oA": 0,
+		"oAP": "\/images\/blog1.jpg",
 		"oF": 0,
 		"opt": 0
 		},
