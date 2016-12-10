@@ -6956,6 +6956,7 @@ section {
   text-align: left;
   background-color: #000;
   color: #5C6871;
+  z-index: 3000;
 }
 #stopka img {
   float: right;
@@ -7230,7 +7231,7 @@ section {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#93cede', endColorstr='#49a5bf', GradientType=0);
   /* IE6-9 */
 }
-.blogHeader {
+.blogHeaderOne {
   text-align: left;
   color: #fff;
   background: #000;
@@ -7242,6 +7243,48 @@ section {
   top: 0;
   left: 0;
   background-image: url(../images/blog1.jpg);
+  background-size: cover;
+}
+.blogHeaderTwo {
+  text-align: left;
+  color: #fff;
+  background: #000;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  height: 58%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  background-image: url(../images/blog2.jpg);
+  background-size: cover;
+}
+.blogHeaderThree {
+  text-align: left;
+  color: #fff;
+  background: #000;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  height: 58%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  background-image: url(../images/blog3.jpg);
+  background-size: cover;
+}
+.blogHeaderFour {
+  text-align: left;
+  color: #fff;
+  background: #000;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  height: 58%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  background-image: url(../images/blog4.jpg);
   background-size: cover;
 }
 .blogBody {

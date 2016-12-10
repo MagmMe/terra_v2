@@ -237,6 +237,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/blog2.jpg": {
+		"ft": 16384,
+		"iS": 107319,
+		"oA": 0,
+		"oAP": "\/images\/blog2.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/blog3.jpg": {
+		"ft": 16384,
+		"iS": 232378,
+		"oA": 0,
+		"oAP": "\/images\/blog3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog4.jpg": {
+		"ft": 16384,
+		"iS": 336728,
+		"oA": 0,
+		"oAP": "\/images\/blog4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/bruce.jpg": {
 		"ft": 16384,
 		"iS": 58685,

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Terrapraph! Site</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+    <!-- Animate -->
+     <link rel="stylesheet" href="css/animate.css">
+
+     <!-- Linear Icons -->
+      <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+   <!-- Terra Menu -->
+
+    <header id="menu" class="navbar-fixed-top">
+        <nav class="navbar navbar-inverse" role="navigation">
+            <div class="container-fluid">
+
+              <!-- Logo i naleśnik zgrupowane dla lepszego wyświetlania na mobilnych -->
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a id="logo" class="navbar-brand" href="index.html"><img src="images/terragraphLogo.png" alt="" class="img-responsive"></a>
+              </div>
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+
+                      <!-- Terragraph Dropdown -->
+
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Terragraph <span class="caret"></span></a>
+                      <ul class="dropdown-menu magme-menu" role="menu">
+                            <li><a href="o-firmie.html">O Firmie</a></li>
+                            <li><a href="team.html">Personel</a></li>
+                            <li><a href="career.html">Kariera</a></li>
+                            <li><a href="kontakt.html">Kontakt</a></li>
+                      </ul>
+                  </li>
+
+                  <!-- Oferta Menu -->
+
+                  <li class="dropdown">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oferta <span class="caret"></span></a>
+                          <ul class="dropdown-menu magme-menu" role="menu">
+                            <li><a href="#">Monitoring systemów</a></li>
+                            <li><a href="#">Ochrona antywirusowa i bezpieczeństwo</a></li>
+                            <li><a href="#">Administracja systemami sieciowymi</a></li>
+                            <li><a href="#">Administracja serwerami Windows</a></li>
+                            <li><a href="#">Administracja serwerami Linux</a></li>
+
+                                <li class="dropdown-submenu">
+                                  <a tabindex="-1" href="#">Usługi hostingowe <i class="fa fa-chevron-right"></i></a>
+                                    <ul class="dropdown-menu magme-menu">
+                                      <li><a tabindex="-1" href="#">Web hosting</a></li>
+                                      <li><a href="#">E-mail hosting</a></li>
+                                      <li><a href="#">Exchange hosting</a></li>
+                                      <li><a href="#">ESerwery dedykowane</a></li>
+                                      <li><a href="#">VPS</a></li>
+                                      <li><a href="#">Certyfikaty SSL</a></li>
+                                    </ul>
+                                </li>
+                            <li><a href="#">Online Backup i backup lokalny</a></li>
+                            <li><a href="#">Projektowanie sieci komputerowych</a></li>
+                            <li><a href="#">Minitoring przemysłowy</a></li>
+                          </ul>
+                  </li>
+
+
+                  <!-- Portfolio Menu -->
+
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portfolio <span class="caret"></span></a>
+                      <ul class="dropdown-menu magme-menu" role="menu">
+                            <li><a href="#">Wdrożenia</a></li>
+                            <li><a href="#">Case study</a></li>
+                            <li><a href="#">Strony www i grafika komputerowa</a></li>
+                            <li><a href="#">Animacja komputerowa</a></li>
+                      </ul>
+                  </li>
+
+                  <!-- Blog Menu -->
+
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Blog <span class="caret"></span></a>
+                      <ul class="dropdown-menu magme-menu" role="menu">
+                            <li><a href="blogOne.html">Artykuł 1</a></li>
+                            <li><a href="blogTwo.html">Artykuł 2</a></li>
+                            <li><a href="blogThree.html">Artykuł 3</a></li>
+                            <li><a href="blogFour.html">Artykuł 4</a></li>
+                      </ul>
+                  </li>
+
+                    <!-- Facebook Youtube menu -->
+
+                  <li><a href="#">YouTube</a></li>
+                  <li><a href="#">Facebook</a></li>
+
+
+                </ul> <!-- .nav .navbar-nav -->
+
+
+                    <!-- Panel Klienta menu -->
+
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b> <span class="lnr lnr-user"></span> Strefa Klienta</b> <span class="caret"></span></a>
+                <ul id="login-dp" class="dropdown-menu">
+                        <div class="top">
+                          <ul class="magme-submenu">
+                            <li><a href="#"><span class="lnr lnr-home"></span> Panel</a></li>
+                            <li><a href="#"> <span class="lnr lnr-envelope"></span> Webmail</a></li>
+                            <li><a href="#"><span class="lnr lnr-smile"></span> Pomoc i FAQ</a></li>
+                            <li><a href="#"> <span class="lnr lnr-warning"></span> Zgłasznie problemów</a></li>
+                          </ul>
+
+                        </div>
+                  <li>
+                     <div class="row">
+                        <div class="col-md-12">
+                          Zaloguj przez
+                          <div class="social-buttons">
+                            <a href="#" class="btn btn-fb"><i class="fa fa-facebook"></i> Facebook</a>
+                            <a href="#" class="btn btn-tw"><i class="fa fa-twitter"></i> Twitter</a>
+                          </div>
+                                          Zaloguj:
+                           <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
+                              <div class="form-group">
+                                 <label class="sr-only" for="exampleInputEmail2">Adres E-mail</label>
+                                 <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email address" required>
+                              </div>
+                              <div class="form-group">
+                                 <label class="sr-only" for="exampleInputPassword2">Hasło</label>
+                                 <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" required>
+                                                       <div class="help-block text-right"><a href="">Zapomniałeś hasła?</a></div>
+                              </div>
+                              <div class="form-group">
+                                 <button type="submit" class="btn btn-primary btn-block">Zaloguj</button>
+                              </div>
+                              <div class="checkbox">
+                                 <label>
+                                 <input type="checkbox"> Nie wylogowuj mnie
+                                 </label>
+                              </div>
+                           </form>
+                        </div>
+                        <div class="bottom text-center">
+                          Nowy klient <a href="#"><b>Zarejestruj</b></a>
+
+                        </div>
+                     </div>
+                  </li>
+                </ul>
+                  </li>
+                </ul>
+
+              </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>   <!-- End Terragraph menu -->
+
+<!-- Blog Header section -->
+
+    <section class="blogHeaderFour">
+      <div class="container-fluid">
+        <div class="row">
+        </div>
+      </div>
+    </section>
+
+
+     <!-- Blog Body-->
+
+     <article class="blogBody">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-6 col-md-offset-3">
+
+                      <!-- Blog Body -->
+
+                       <h1 class="blogTitle">Lorem ipsum nones</h1>
+                       <h4>Autor: Teresa Nowa - Kowalska</h4>
+                      <p><strong><span class="lnr lnr-clock"></span> 10 grudnia 2016 11:00 </strong></p>
+
+                      <!-- Artykuł -->
+                      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?</p>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus.</p>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, doloribus, dolorem iusto blanditiis unde eius illum consequuntur neque dicta incidunt ullam ea hic porro optio ratione repellat perspiciatis. Enim, iure!</p>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, nostrum, aliquid, animi, ut quas placeat totam sunt tempora commodi nihil ullam alias modi dicta saepe minima ab quo voluptatem obcaecati?</p>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
+
+                        <!-- Autor -->
+                      <div class="autorInfo">
+                          <div class="row">
+                              <div class="col-md-4">
+                                <img src="images/team_member3.jpg" alt="" class="img-responsive img-circle" width="150px;">
+                              </div>
+                            <div class="col-md-8">
+                              <h4 class="blogBio"><strong>Anna Kowalska</strong> Manager z gigantycznym doświadczeniem. O sobie mówi Matka Polska.</h4>
+                            </div>
+                          </div>
+                      </div>
+                      <hr>
+
+                      <!-- Komentarze -->
+
+                      <!-- Comments Form -->
+                      <div class="well">
+                          <h4>Skomentuj:</h4>
+                          <form role="form">
+                              <div class="form-group">
+                                  <textarea class="form-control" rows="3"></textarea>
+                              </div>
+                              <button type="submit" class="btn btn-primary"> <span class="lnr lnr-bubble"></span> Wyślij</button>
+                          </form>
+                      </div>
+
+                      <hr>
+
+                      <!-- Posted Comments -->
+
+                      <!-- Comment -->
+                      <div class="media">
+                          <a class="pull-left" href="#">
+                              <img class="media-object img-responsive img-circle" src="images/team_member2.jpg" alt="" width="100px">
+                          </a>
+                          <div class="media-body">
+                              <h4 class="media-heading">Start Bootstrap
+                                  <small>August 25, 2014 at 9:30 PM</small>
+                              </h4>
+                              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                          </div>
+                      </div>
+
+                      <!-- Comment -->
+                      <div class="media">
+                          <a class="pull-left" href="#">
+                              <img class="media-object img-responsive img-circle" src="images/team_member3.jpg" alt="" width="100px">
+                          </a>
+                          <div class="media-body">
+                              <h4 class="media-heading">Start Bootstrap
+                                  <small>August 25, 2014 at 9:30 PM</small>
+                              </h4>
+                              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                              <!-- Nested Comment -->
+                              <div class="media">
+                                  <a class="pull-left" href="#">
+                                      <img class="media-object img-responsive img-circle" src="images/team_member1.jpg" alt="" width="100px">
+                                  </a>
+                                  <div class="media-body">
+                                      <h4 class="media-heading">Nested Start Bootstrap
+                                          <small>August 25, 2014 at 9:30 PM</small>
+                                      </h4>
+                                      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+                                  </div>
+                              </div>
+                              <!-- End Nested Comment -->
+                          </div>
+                      </div>
+
+                  </div>
+              </div>
+              <!-- /.row -->
+
+              <aside class="row">
+                 <!-- Blog Sidebar Widgets Column -->
+                  <div class="col-md-4">
+                      <!-- Side Widget Well -->
+                      <div class="well">
+                          <h4>Blog Terragraph</h4>
+                          <p>Tu dzielimy się naszą wiedzą i doświadzczeniem. Często, ale nie zawsze o Waszym bezpieczeństwie w sieci.</p>
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                      <!-- Blog Categories Well -->
+                      <div class="well">
+                          <h4>Kategorie</h4>
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <ul class="list-unstyled">
+                                      <li><a href="#">Bezpieczeństwo</a>
+                                      </li>
+                                      <li><a href="#">FrontEnd</a>
+                                      </li>
+                                      <li><a href="#">Programowanie</a>
+                                      </li>
+                                      <li><a href="#">Po godzinach</a>
+                                      </li>
+                                  </ul>
+                              </div>
+                              <div class="col-lg-6">
+                                  <ul class="list-unstyled">
+                                      <li><a href="#">BackEnd</a>
+                                      </li>
+                                      <li><a href="#">Popularne</a>
+                                      </li>
+                                      <li><a href="#">Social Media</a>
+                                      </li>
+                                      <li><a href="#">Wszystko Inne</a>
+                                      </li>
+                                  </ul>
+                              </div>
+                          </div>
+                          <!-- /.row -->
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                      <!-- Blog Search Well -->
+                      <div class="well">
+                          <h4>Znajdz na Blogu</h4>
+                          <div class="input-group">
+                              <input type="text" class="form-control">
+                              <span class="input-group-btn">
+                                  <button class="btn btn-default" type="button">
+                                      <span class="glyphicon glyphicon-search"></span>
+                              </button>
+                              </span>
+                          </div>
+                          <!-- /.input-group -->
+                      </div>
+                  </div>
+
+              </aside> <!-- End Row SubArticle -->
+
+          </div>
+          <!-- /.container -->
+
+
+           <footer id="stopka">
+        <div class="container">
+            <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                       <p>Copyright by Terragraph 2016</p>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 social_icons">
+                        <a href="#"><img src="images/icons/facebook.png" alt="" class="img-responsive"></a>
+                        <a href="#"><img src="images/icons/googleplus.png" alt="" class="img-responsive"></a>
+                        <a href="#"><img src="images/icons/twitter.png" alt="" class="img-responsive"></a>
+                        <a href="#"><img src="images/icons/vimeo.png" alt="" class="img-responsive"></a>
+                  </div>
+              </div>
+          </div>
+
+    </footer>
+
+    </article>
+
+   <!-- Footer Terragraph -->
+
+
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.js"></script>
+    <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
+    <script src="js/magmeScript.js"></script>
+  </body>
+</html>
