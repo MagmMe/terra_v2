@@ -746,8 +746,234 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
       padding-top: 40px;
     }
 
+}
+
+
+// Login Page
+
+#loginPage{
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background: url(../images/login_bg.jpg);
+    background-size: cover;
+    height: 100%;
+
+      .form-signin {
+      max-width: 330px;
+      padding: 15px;
+      margin: 0 auto;
+      }
+
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 10px;
+      }
+
+      .form-signin-heading {
+        color: #fff;
+      }
+
+      .form-signin .checkbox {
+      font-weight: normal;
+      color: #fff;
+      }
+
+      .form-signin .help-block a {
+        color: #fff;
+      }
+
+      .form-signin .form-control {
+        position: relative;
+        height: auto;
+        -webkit-box-sizing: border-box;
+           -moz-box-sizing: border-box;
+                box-sizing: border-box;
+        padding: 10px;
+        font-size: 16px;
+      }
+
+        .form-signin .form-control:focus {
+        z-index: 2;
+      }
+      .form-signin input[type="email"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+      }
+      .form-signin input[type="password"] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
 
 }
+
+// Webmail
+
+#bodyWebmail{
+  overflow: hidden;
+              height: 100%;
+
+      #clouds{
+        padding: 300px 0;
+        background: #c9dbe9;
+        background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+        background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
+        background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+
+            #webMail{
+              position: absolute;
+              width: 100%;
+              top: 28%;
+
+              .form-signin{
+                      max-width: 330px;
+                      padding: 25px;
+                      margin: 0 auto;
+                      }
+              }
+       }
+
+
+            /*Time to finalise the cloud shape*/
+      .cloud {
+        width: 200px; height: 60px;
+        background: #fff;
+
+        border-radius: 200px;
+        -moz-border-radius: 200px;
+        -webkit-border-radius: 200px;
+
+        position: relative;
+      }
+
+      .cloud:before, .cloud:after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 100px; height: 80px;
+        position: absolute; top: -15px; left: 10px;
+
+        border-radius: 100px;
+        -moz-border-radius: 100px;
+        -webkit-border-radius: 100px;
+
+        -webkit-transform: rotate(30deg);
+        transform: rotate(30deg);
+        -moz-transform: rotate(30deg);
+      }
+
+      .cloud:after {
+        width: 120px; height: 120px;
+        top: -55px; left: auto; right: 15px;
+      }
+
+      /*Time to animate*/
+      .x1 {
+        -webkit-animation: moveclouds 15s linear infinite;
+        -moz-animation: moveclouds 15s linear infinite;
+        -o-animation: moveclouds 15s linear infinite;
+      }
+
+      /*variable speed, opacity, and position of clouds for realistic effect*/
+      .x2 {
+        left: 200px;
+
+        -webkit-transform: scale(0.6);
+        -moz-transform: scale(0.6);
+        transform: scale(0.6);
+        opacity: 0.6; /*opacity proportional to the size*/
+
+        /*Speed will also be proportional to the size and opacity*/
+        /*More the speed. Less the time in 's' = seconds*/
+        -webkit-animation: moveclouds 25s linear infinite;
+        -moz-animation: moveclouds 25s linear infinite;
+        -o-animation: moveclouds 25s linear infinite;
+      }
+
+      .x3 {
+        left: -250px; top: -200px;
+
+        -webkit-transform: scale(0.8);
+        -moz-transform: scale(0.8);
+        transform: scale(0.8);
+        opacity: 0.8; /*opacity proportional to the size*/
+
+        -webkit-animation: moveclouds 20s linear infinite;
+        -moz-animation: moveclouds 20s linear infinite;
+        -o-animation: moveclouds 20s linear infinite;
+      }
+
+      .x4 {
+        left: 470px; top: -250px;
+
+        -webkit-transform: scale(0.75);
+        -moz-transform: scale(0.75);
+        transform: scale(0.75);
+        opacity: 0.75; /*opacity proportional to the size*/
+
+        -webkit-animation: moveclouds 18s linear infinite;
+        -moz-animation: moveclouds 18s linear infinite;
+        -o-animation: moveclouds 18s linear infinite;
+      }
+
+      .x5 {
+        left: -150px; top: -150px;
+
+        -webkit-transform: scale(0.8);
+        -moz-transform: scale(0.8);
+        transform: scale(0.8);
+        opacity: 0.8; /*opacity proportional to the size*/
+
+        -webkit-animation: moveclouds 20s linear infinite;
+        -moz-animation: moveclouds 20s linear infinite;
+        -o-animation: moveclouds 20s linear infinite;
+      }
+
+
+  //     .stopka{
+  //       margin-top: 50px;
+  //       padding-top: 4rem;
+  // font-weight: 100;
+  // padding-bottom: 2rem;
+  // text-align: left;
+  // background-color: #000;
+  // color: #5C6871;
+  // z-index: 3000;
+  // bottom:0;
+
+  //     img {
+  //       float: right;
+  //       margin-left: 1rem;
+  //       width: 5%;
+
+  //          &:hover{
+  //         -webkit-animation: pulse .8s ease;
+  //         -o-animation: pulse .8s ease;
+  //         animation: pulse .8s ease;
+  //         }
+  //       }
+  //     }
+
+}
+
+
+@-webkit-keyframes moveclouds {
+  0% {margin-left: 1000px;}
+  100% {margin-left: -1000px;}
+}
+@-moz-keyframes moveclouds {
+  0% {margin-left: 1000px;}
+  100% {margin-left: -1000px;}
+}
+@-o-keyframes moveclouds {
+  0% {margin-left: 1000px;}
+  100% {margin-left: -1000px;}
+}
+
+
+
+
 
 
 

@@ -325,6 +325,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/login_bg.jpg": {
+		"ft": 16384,
+		"iS": 20514,
+		"oA": 0,
+		"oAP": "\/images\/login_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 39032,
@@ -1815,6 +1823,12 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/login.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/login.html",
+		"oF": 0
+		},
 	"\/o-firmie.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -1837,6 +1851,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/terra_v2.sublime-workspace",
+		"oF": 0
+		},
+	"\/webmail.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webmail.html",
 		"oF": 0
 		}
 	},

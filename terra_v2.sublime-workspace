@@ -5,7 +5,7 @@
 		[
 			[
 				"bac",
-				"background-color"
+				"background-size"
 			],
 			[
 				"padd",
@@ -519,24 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "less/magme.less",
-			"settings":
-			{
-				"buffer_size": 13401,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blogOne.html",
-			"settings":
-			{
-				"buffer_size": 19947,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -880,24 +862,28 @@
 	"expanded_folders":
 	[
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/css",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/images",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js"
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/css"
 	],
 	"file_history":
 	[
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/webmail.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/login.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/kontakt.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogFour.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogOne.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogThree.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogTwo.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/career.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/team.html",
 		"/Users/MarcinMagiera/Downloads/startbootstrap-blog-post-gh-pages/index.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/less/magme-responsive.less",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js/magmeScript.js",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/kontakt.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Nikta_One/js/script.js",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Nikta_One/index.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Nikta_One/css/style.css",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/kontakt.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/career.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/team.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
 		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/helper/helper.sublime-settings",
 		"/Users/MarcinMagiera/Desktop/Nikta/index.html",
 		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/07020FBE-B84A-4813-B3DF-82EB0022293F/jquery.cookiebar.css",
@@ -1007,13 +993,7 @@
 		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/569DBCCA-3EF1-47FE-9468-4A73CB73FBE0/index.html",
 		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/4E367303-D010-44F2-BB8F-C5B36A5FC1DE/styles.css",
 		"/Users/MarcinMagiera/Desktop/index.html",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3338419B-23BF-48E7-8C09-4AB4D6E5757E/style.css",
-		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js/npm.js",
-		"/Users/MarcinMagiera/Desktop/global.js",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/ED30A6F9-07DD-4B4D-9345-0B23BEC9C6FE/style.css",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3E83C228-5201-4A2A-8352-BA4DB219B96C/style.css",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B3160F66-E45B-4D20-A65B-61700A1CAC78/functions.php",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2AC7F781-CA90-4B57-BCE4-1E27855C6945/style.css"
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3338419B-23BF-48E7-8C09-4AB4D6E5757E/style.css"
 	],
 	"find":
 	{
@@ -1114,256 +1094,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "less/magme.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13401,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12649,
-								12649
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										12648,
-										12649
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										12617,
-										12618
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 10386.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "blogOne.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19947,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								18693,
-								18693
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										18693,
-										18694
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										18686,
-										18687
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5087.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
