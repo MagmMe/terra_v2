@@ -7373,7 +7373,6 @@ section {
 #bodyWebmail {
   overflow: hidden;
   height: 100%;
-  /*Time to finalise the cloud shape*/
   /*Time to animate*/
   /*variable speed, opacity, and position of clouds for realistic effect*/
 }
@@ -7503,6 +7502,27 @@ section {
   100% {
     margin-left: -1000px;
   }
+}
+.terraHead .faq {
+  background-image: url(../images/faq_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#faq {
+  padding-top: 7%;
+  padding-bottom: 5%;
+}
+#faq h2 {
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3em;
+}
+#faq #accordion .panel-heading {
+  -webkit-box-shadow: 3px 6px 29px -10px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 3px 6px 29px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 3px 6px 29px -10px rgba(0, 0, 0, 0.75);
 }
 @media (max-width: 460px) {
   #menu {
