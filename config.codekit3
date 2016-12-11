@@ -129,6 +129,12 @@
 		"oAP": "\/faq.html",
 		"oF": 0
 		},
+	"\/feedback.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/feedback.html",
+		"oF": 0
+		},
 	"\/fonts\/glyphicons-halflings-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -290,6 +296,14 @@
 		"oAP": "\/images\/faq_bg.jpg",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/images\/feedback_bg.jpg": {
+		"ft": 16384,
+		"iS": 48804,
+		"oA": 0,
+		"oAP": "\/images\/feedback_bg.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/icons\/facebook.png": {
 		"ft": 32768,
