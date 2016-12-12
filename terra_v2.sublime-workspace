@@ -4,12 +4,32 @@
 		"selected_items":
 		[
 			[
-				"mar",
-				"margin"
+				"fi",
+				"fixed"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"fon",
+				"font-size"
 			],
 			[
 				"padd",
-				"padding-bottom"
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
 			],
 			[
 				"pa",
@@ -24,16 +44,8 @@
 				"margin-top"
 			],
 			[
-				"bac",
-				"background-size"
-			],
-			[
 				"backg",
 				"background-size"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"max",
@@ -108,10 +120,6 @@
 				"cover"
 			],
 			[
-				"background",
-				"background-size"
-			],
-			[
 				"bs3-ht",
 				"bs3-template:html5\tbs3-html5-template"
 			],
@@ -146,10 +154,6 @@
 			[
 				"tran",
 				"transparent"
-			],
-			[
-				"fon",
-				"font-family"
 			],
 			[
 				"ea",
@@ -510,10 +514,6 @@
 			[
 				"hi",
 				"hidden"
-			],
-			[
-				"flex-gr",
-				"-webkit-flex-grow"
 			]
 		]
 	},
@@ -523,16 +523,7 @@
 			"file": "less/magme.less",
 			"settings":
 			{
-				"buffer_size": 21676,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "wdrozenia.html",
-			"settings":
-			{
-				"buffer_size": 13747,
+				"buffer_size": 22643,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -880,27 +871,31 @@
 	"expanded_folders":
 	[
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/css"
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/css",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/images",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js"
 	],
 	"file_history":
 	[
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/kontakt.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/login.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/team.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/webmail.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogFour.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogOne.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogThree.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogTwo.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/career.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/case.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/faq.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/feedback.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/kontakt.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/login.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/team.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/wdrozenia.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/webmail.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js/magmeScript.js",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/index.html",
 		"/Users/MarcinMagiera/Downloads/startbootstrap-blog-post-gh-pages/index.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/less/magme-responsive.less",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js/magmeScript.js",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Nikta_One/js/script.js",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Nikta_One/index.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Nikta_One/css/style.css",
@@ -1009,9 +1004,7 @@
 		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB8BB7CD-C192-4E39-872F-63A6FC6CDBFF/functions.php",
 		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BB3ED5AB-8653-44D5-90AF-D7BB28A2BA0C/styles_ajax.css",
 		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/0D763F64-7A02-4B45-8A17-B3D6F984C02F/styles.css",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/309E6EDA-3022-4ABD-AE92-F7893DE5731C/styles_ajax.css",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/569DBCCA-3EF1-47FE-9468-4A73CB73FBE0/index.html",
-		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/4E367303-D010-44F2-BB8F-C5B36A5FC1DE/styles.css"
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/309E6EDA-3022-4ABD-AE92-F7893DE5731C/styles_ajax.css"
 	],
 	"find":
 	{
@@ -1112,7 +1105,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1121,15 +1114,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21676,
+						"buffer_size": 22643,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21658,
-								21658
+								22416,
+								22416
 							]
 						],
 						"settings":
@@ -1141,8 +1134,8 @@
 								{
 									"1":
 									[
-										21663,
-										21664
+										22421,
+										22422
 									]
 								},
 								"icon":
@@ -1157,8 +1150,8 @@
 								{
 									"1":
 									[
-										21638,
-										21639
+										22392,
+										22393
 									]
 								},
 								"unmatched":
@@ -1177,51 +1170,51 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
 							"incomplete_sync": null,
@@ -1232,130 +1225,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 16930.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "wdrozenia.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13747,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12208,
-								12208
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										12208,
-										12209
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										12192,
-										12193
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3857.0,
+						"translation.y": 17702.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

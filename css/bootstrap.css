@@ -7614,6 +7614,28 @@ section {
   line-height: 1;
   letter-spacing: -1px;
 }
+.terraHead .websitePortfolio {
+  background-image: url(../images/website_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#websitePortfolio {
+  padding-top: 7%;
+  padding-bottom: 7%;
+}
+#websitePortfolio h2 {
+  font-size: 3em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#websitePortfolio h3 a {
+  font-size: 1.3em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 @media (max-width: 460px) {
   #menu {
     padding: 0;

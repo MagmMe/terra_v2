@@ -705,6 +705,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/website_bg.jpg": {
+		"ft": 16384,
+		"iS": 44538,
+		"oA": 0,
+		"oAP": "\/images\/website_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/website_portfolio.jpg": {
+		"ft": 16384,
+		"iS": 193049,
+		"oA": 0,
+		"oAP": "\/images\/website_portfolio.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/windows_ninja.jpg": {
 		"ft": 16384,
 		"iS": 62193,
@@ -2073,6 +2089,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/webmail.html",
+		"oF": 0
+		},
+	"\/website_portfolio.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/website_portfolio.html",
 		"oF": 0
 		}
 	},
