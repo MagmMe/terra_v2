@@ -1,1 +1,1 @@
-function animationHover(n,i){n=$(n),n.hover(function(){n.addClass("animated "+i)},function(){window.setTimeout(function(){n.removeClass("animated "+i)},2e3)})}$(document).ready(function(){$(".magmeAnimation").each(function(){animationHover(this,"pulse")})});
+function animationHover(n,e){n=$(n),n.hover(function(){n.addClass("animated "+e)},function(){window.setTimeout(function(){n.removeClass("animated "+e)},2e3)})}$(document).ready(function(){$(".magmeAnimation").each(function(){animationHover(this,"pulse")})}),$(document).ready(function(){$(".player").mb_YTPlayer()});
