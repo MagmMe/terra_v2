@@ -875,6 +875,12 @@
 	],
 	"file_history":
 	[
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/kontakt.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/login.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/team.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/webmail.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogFour.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogOne.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/blogThree.html",
@@ -882,12 +888,7 @@
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/career.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/faq.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/feedback.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/index.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/kontakt.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/login.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/o-firmie.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/team.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/webmail.html",
+		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/index.html",
 		"/Users/MarcinMagiera/Downloads/startbootstrap-blog-post-gh-pages/index.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/less/magme-responsive.less",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/js/magmeScript.js",
@@ -910,7 +911,6 @@
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_v2/less/bootstrap.less",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/less/style.less",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/index.html",
-		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/index.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/css/style.css",
 		"/Users/MarcinMagiera/Desktop/Projekty/Terragraph/Terragraph_Site/index2.html",
 		"/Users/MarcinMagiera/Desktop/Projekty/Nikta/Niktav2/less/bootstrap.less",
@@ -1119,8 +1119,8 @@
 						"selection":
 						[
 							[
-								20920,
-								20920
+								20482,
+								20482
 							]
 						],
 						"settings":
@@ -1132,8 +1132,8 @@
 								{
 									"1":
 									[
-										20928,
-										20929
+										20930,
+										20931
 									]
 								},
 								"icon":
@@ -1148,8 +1148,8 @@
 								{
 									"1":
 									[
-										20744,
-										20745
+										20462,
+										20463
 									]
 								},
 								"unmatched":
@@ -1223,7 +1223,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 16104.0,
+						"translation.y": 16114.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

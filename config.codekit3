@@ -353,6 +353,38 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/lang\/lang-eng.jpg": {
+		"ft": 16384,
+		"iS": 1029,
+		"oA": 0,
+		"oAP": "\/images\/lang\/lang-eng.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/lang\/lang-ita.jpg": {
+		"ft": 16384,
+		"iS": 1714,
+		"oA": 0,
+		"oAP": "\/images\/lang\/lang-ita.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/lang\/lang-pl.jpg": {
+		"ft": 16384,
+		"iS": 606,
+		"oA": 0,
+		"oAP": "\/images\/lang\/lang-pl.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/lang\/lang-rus.jpg": {
+		"ft": 16384,
+		"iS": 721,
+		"oA": 0,
+		"oAP": "\/images\/lang\/lang-rus.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/login_bg.jpg": {
 		"ft": 16384,
 		"iS": 20514,
@@ -528,6 +560,14 @@
 		"iS": 23373,
 		"oA": 0,
 		"oAP": "\/images\/terragraphLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/wdrozenia_bg.jpg": {
+		"ft": 16384,
+		"iS": 51828,
+		"oA": 0,
+		"oAP": "\/images\/wdrozenia_bg.jpg",
 		"oF": 0,
 		"opt": 0
 		},
