@@ -39,6 +39,12 @@
 		"oAP": "\/career.html",
 		"oF": 0
 		},
+	"\/case.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/case.html",
+		"oF": 0
+		},
 	"\/css\/animate.css": {
 		"aP": 0,
 		"bl": 0,
@@ -286,6 +292,38 @@
 		"iS": 37086,
 		"oA": 0,
 		"oAP": "\/images\/career.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/case1.jpg": {
+		"ft": 16384,
+		"iS": 94965,
+		"oA": 0,
+		"oAP": "\/images\/case1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/case2.jpg": {
+		"ft": 16384,
+		"iS": 53903,
+		"oA": 0,
+		"oAP": "\/images\/case2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/case3.jpg": {
+		"ft": 16384,
+		"iS": 44213,
+		"oA": 0,
+		"oAP": "\/images\/case3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/case_bg.jpg": {
+		"ft": 16384,
+		"iS": 76604,
+		"oA": 0,
+		"oAP": "\/images\/case_bg.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -624,6 +662,14 @@
 		"iS": 23373,
 		"oA": 0,
 		"oAP": "\/images\/terragraphLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/Untitled-2.jpg": {
+		"ft": 16384,
+		"iS": 53903,
+		"oA": 0,
+		"oAP": "\/images\/Untitled-2.jpg",
 		"oF": 0,
 		"opt": 0
 		},
