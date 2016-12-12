@@ -16,9 +16,13 @@ function animationHover(element, animation){
 
 $(document).ready(function(){
     $('.magmeAnimation').each(function() {
-        animationHover(this, 'tada');
+        animationHover(this, 'pulse');
     });
 });
+
+
+
+
 
 
 

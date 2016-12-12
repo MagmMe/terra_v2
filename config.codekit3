@@ -443,6 +443,70 @@
 		"oAP": "\/images\/Logo\/TerragraphLogo.tiff",
 		"oF": 0
 		},
+	"\/images\/logo1.jpg": {
+		"ft": 16384,
+		"iS": 19997,
+		"oA": 0,
+		"oAP": "\/images\/logo1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo2.jpg": {
+		"ft": 16384,
+		"iS": 40331,
+		"oA": 0,
+		"oAP": "\/images\/logo2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo3.jpg": {
+		"ft": 16384,
+		"iS": 14879,
+		"oA": 0,
+		"oAP": "\/images\/logo3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo4.jpg": {
+		"ft": 16384,
+		"iS": 20809,
+		"oA": 0,
+		"oAP": "\/images\/logo4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo5.jpg": {
+		"ft": 16384,
+		"iS": 23787,
+		"oA": 0,
+		"oAP": "\/images\/logo5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo6.jpg": {
+		"ft": 16384,
+		"iS": 23238,
+		"oA": 0,
+		"oAP": "\/images\/logo6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo7.jpg": {
+		"ft": 16384,
+		"iS": 30955,
+		"oA": 0,
+		"oAP": "\/images\/logo7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logo8.jpg": {
+		"ft": 16384,
+		"iS": 45401,
+		"oA": 0,
+		"oAP": "\/images\/logo8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/security_ninja.jpg": {
 		"ft": 16384,
 		"iS": 77197,
@@ -571,11 +635,43 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/wdrozenia_bg_one.jpg": {
+		"ft": 16384,
+		"iS": 65940,
+		"oA": 0,
+		"oAP": "\/images\/wdrozenia_bg_one.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/wdrozenia_man.jpg": {
+		"ft": 16384,
+		"iS": 73297,
+		"oA": 0,
+		"oAP": "\/images\/wdrozenia_man.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/wdrozenia_man.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/images\/wdrozenia_man.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/windows_ninja.jpg": {
 		"ft": 16384,
 		"iS": 62193,
 		"oA": 0,
 		"oAP": "\/images\/windows_ninja.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/zdrozenia_bg_one.jpg": {
+		"ft": 16384,
+		"iS": 82734,
+		"oA": 0,
+		"oAP": "\/images\/zdrozenia_bg_one.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1919,6 +2015,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/terra_v2.sublime-workspace",
+		"oF": 0
+		},
+	"\/wdrozenia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wdrozenia.html",
 		"oF": 0
 		},
 	"\/webmail.html": {
