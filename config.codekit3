@@ -567,6 +567,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/monitoring_bg.jpg": {
+		"ft": 16384,
+		"iS": 57555,
+		"oA": 0,
+		"oAP": "\/images\/monitoring_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/monitoring_main.jpg": {
+		"ft": 16384,
+		"iS": 37528,
+		"oA": 0,
+		"oAP": "\/images\/monitoring_main.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/monitoring_main1.jpg": {
+		"ft": 16384,
+		"iS": 81475,
+		"oA": 0,
+		"oAP": "\/images\/monitoring_main1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/pen_atblet.jpg": {
 		"ft": 16384,
 		"iS": 73786,
@@ -692,6 +716,14 @@
 		"iS": 23373,
 		"oA": 0,
 		"oAP": "\/images\/terragraphLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/Untitled-1.jpg": {
+		"ft": 16384,
+		"iS": 57555,
+		"oA": 0,
+		"oAP": "\/images\/Untitled-1.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -2089,6 +2121,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/o-firmie.html",
+		"oF": 0
+		},
+	"\/systemy.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/systemy.html",
 		"oF": 0
 		},
 	"\/team.html": {
