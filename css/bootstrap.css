@@ -7752,29 +7752,69 @@ section {
 .portfolioLead p > span {
   font-size: 4em;
 }
+#systemy img,
+#anty img,
+#administracja img,
+#windows img,
+#linux img {
+  margin: 0;
+  padding: 0;
+}
+#systemy .box,
+#anty .box,
+#administracja .box,
+#windows .box,
+#linux .box {
+  padding-top: 5%;
+}
+#systemy h2,
+#anty h2,
+#administracja h2,
+#windows h2,
+#linux h2 {
+  font-size: 3em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#systemy h3,
+#anty h3,
+#administracja h3,
+#windows h3,
+#linux h3 {
+  background: -webkit-linear-gradient(#fff, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .terraHead .systemy {
   background-image: url(../images/monitoring_bg.jpg);
   background-size: cover;
   margin-bottom: 0px;
   border-radius: 0px;
 }
-#systemy img {
-  margin: 0;
-  padding: 0;
+.terraHead .antywirus {
+  background-image: url(../images/antywirus_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
 }
-#systemy .box {
-  padding-top: 5%;
+.terraHead .administracja {
+  background-image: url(../images/administracja_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
 }
-#systemy h2 {
-  font-size: 3em;
-  background: -webkit-linear-gradient(#55656F, #C81F7C);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.terraHead .windows {
+  background-image: url(../images/windows_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
 }
-#systemy h3 {
-  background: -webkit-linear-gradient(#fff, #C81F7C);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.terraHead .linux {
+  background-image: url(../images/windows_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
 }
 @media (max-width: 460px) {
   #menu {

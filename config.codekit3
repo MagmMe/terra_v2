@@ -9,10 +9,22 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/administracja.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/administracja.html",
+		"oF": 0
+		},
 	"\/animation.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/animation.html",
+		"oF": 0
+		},
+	"\/antywirus.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/antywirus.html",
 		"oF": 0
 		},
 	"\/blogFour.html": {
@@ -221,6 +233,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/administracja_bg.jpg": {
+		"ft": 16384,
+		"iS": 61515,
+		"oA": 0,
+		"oAP": "\/images\/administracja_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/administracja_main.jpg": {
+		"ft": 16384,
+		"iS": 67724,
+		"oA": 0,
+		"oAP": "\/images\/administracja_main.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/animate1.jpg": {
 		"ft": 16384,
 		"iS": 178297,
@@ -234,6 +262,22 @@
 		"iS": 200346,
 		"oA": 0,
 		"oAP": "\/images\/animate_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/antywirsu_main.jpg": {
+		"ft": 16384,
+		"iS": 61132,
+		"oA": 0,
+		"oAP": "\/images\/antywirsu_main.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/antywirus_bg.jpg": {
+		"ft": 16384,
+		"iS": 40610,
+		"oA": 0,
+		"oAP": "\/images\/antywirus_bg.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -442,6 +486,22 @@
 		"iS": 721,
 		"oA": 0,
 		"oAP": "\/images\/lang\/lang-rus.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/linux_bg.jpg": {
+		"ft": 16384,
+		"iS": 50782,
+		"oA": 0,
+		"oAP": "\/images\/linux_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/linux_main.jpg": {
+		"ft": 16384,
+		"iS": 29144,
+		"oA": 0,
+		"oAP": "\/images\/linux_main.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -780,6 +840,22 @@
 		"iS": 193049,
 		"oA": 0,
 		"oAP": "\/images\/website_portfolio.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/windows_bg.jpg": {
+		"ft": 16384,
+		"iS": 81535,
+		"oA": 0,
+		"oAP": "\/images\/windows_bg.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/windows_main.jpg": {
+		"ft": 16384,
+		"iS": 34900,
+		"oA": 0,
+		"oAP": "\/images\/windows_main.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -2111,6 +2187,12 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/linux.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/linux.html",
+		"oF": 0
+		},
 	"\/login.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -2163,6 +2245,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/website_portfolio.html",
+		"oF": 0
+		},
+	"\/windows.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/windows.html",
 		"oF": 0
 		}
 	},
