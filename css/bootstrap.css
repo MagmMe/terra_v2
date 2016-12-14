@@ -7894,6 +7894,198 @@ section {
 #hosting .outroHosting {
   padding-top: 5%;
 }
+.terraHead .emailHosting {
+  background-image: url(../images/emailHosting_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#emailHosting .hostingBg {
+  padding-bottom: 10%;
+  background-image: url(../images/emailHosting_main.jpg);
+  background-size: cover;
+}
+#emailHosting .box {
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+#emailHosting h2 {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#emailHosting a {
+  font-size: 2em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#emailHosting .emailHostingParalax {
+  padding: 0;
+  margin: 0 auto;
+  background-image: url(../images/emailHosting_secong.jpg);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  min-height: 600px;
+}
+.terraHead .exchange {
+  background-image: url(../images/exchange_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#exchange .exchangeParalax {
+  padding: 0;
+  margin: 0 auto;
+  background-image: url(../images/exchange_main.jpg);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  min-height: 600px;
+}
+#exchange .box {
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+#exchange h2 {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#exchange a {
+  font-size: 2em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.terraHead .serwery {
+  background-image: url(../images/serwery_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#serwery .hostingBg {
+  padding-bottom: 10%;
+  background-image: url(../images/serwery_main.jpg);
+  background-size: cover;
+}
+#serwery .box {
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+#serwery h2 {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#serwery a {
+  font-size: 2em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#serwery .leftCl h2,
+#serwery .leftCl p {
+  background: -webkit-linear-gradient(#fff, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#serwery .darkBg {
+  background-color: #2D3239;
+}
+.terraHead .vps {
+  background-image: url(../images/vps_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#vps .box {
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+#vps h2 {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#vps a {
+  font-size: 2em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#vps .darkBg {
+  background-color: #2D3239;
+}
+#vps .darkBg h1 > span {
+  background: -webkit-linear-gradient(#fff, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 7em;
+}
+#vps .leftCl h2,
+#vps .leftCl p {
+  background: -webkit-linear-gradient(#fff, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.terraHead .ssl {
+  background-image: url(../images/ssl_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#ssl .hostingBg {
+  padding-bottom: 10%;
+  background-image: url(../images/ssl_main.jpg);
+  background-size: cover;
+}
+#ssl .box {
+  padding-top: 5em;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+#ssl h2 {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#ssl h3 > span {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#ssl h3 a {
+  background: -webkit-linear-gradient(#C81F7C, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#ssl .iconsHosting > div {
+  padding: 3%;
+}
+#ssl .hostingParalax {
+  padding: 0;
+  margin: 0 auto;
+  background-image: url(../images/hosting_third.jpg);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  min-height: 400px;
+}
+#ssl .outroHosting {
+  padding-top: 5%;
+}
 @media (max-width: 460px) {
   #menu {
     padding: 0;
