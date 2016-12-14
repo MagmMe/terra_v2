@@ -7756,7 +7756,10 @@ section {
 #anty img,
 #administracja img,
 #windows img,
-#linux img {
+#linux img,
+#backup img,
+#sieci img,
+#monitoring img {
   margin: 0;
   padding: 0;
 }
@@ -7764,14 +7767,20 @@ section {
 #anty .box,
 #administracja .box,
 #windows .box,
-#linux .box {
+#linux .box,
+#backup .box,
+#sieci .box,
+#monitoring .box {
   padding-top: 5%;
 }
 #systemy h2,
 #anty h2,
 #administracja h2,
 #windows h2,
-#linux h2 {
+#linux h2,
+#backup h2,
+#sieci h2,
+#monitoring h2 {
   font-size: 3em;
   background: -webkit-linear-gradient(#55656F, #C81F7C);
   -webkit-background-clip: text;
@@ -7781,7 +7790,10 @@ section {
 #anty h3,
 #administracja h3,
 #windows h3,
-#linux h3 {
+#linux h3,
+#backup h3,
+#sieci h3,
+#monitoring h3 {
   background: -webkit-linear-gradient(#fff, #C81F7C);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -7811,10 +7823,76 @@ section {
   border-radius: 0px;
 }
 .terraHead .linux {
-  background-image: url(../images/windows_bg.jpg);
+  background-image: url(../images/linux_bg.jpg);
   background-size: cover;
   margin-bottom: 0px;
   border-radius: 0px;
+}
+.terraHead .backup {
+  background-image: url(../images/backup_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+.terraHead .sieci {
+  background-image: url(../images/sieci_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+.terraHead .monitoring {
+  background-image: url(../images/camera_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+.terraHead .hosting {
+  background-image: url(../images/hosting_bg.jpg);
+  background-size: cover;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+#hosting .hostingBg {
+  padding-bottom: 10%;
+  background-image: url(../images/hosting_second.jpg);
+  background-size: cover;
+}
+#hosting .box {
+  padding-top: 5em;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+#hosting h2 {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#hosting h3 > span {
+  font-size: 4em;
+  background: -webkit-linear-gradient(#55656F, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#hosting h3 a {
+  background: -webkit-linear-gradient(#C81F7C, #C81F7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#hosting .iconsHosting > div {
+  padding: 3%;
+}
+#hosting .hostingParalax {
+  padding: 0;
+  margin: 0 auto;
+  background-image: url(../images/hosting_third.jpg);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  min-height: 400px;
+}
+#hosting .outroHosting {
+  padding-top: 5%;
 }
 @media (max-width: 460px) {
   #menu {

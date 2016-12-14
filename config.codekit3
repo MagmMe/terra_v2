@@ -27,6 +27,12 @@
 		"oAP": "\/antywirus.html",
 		"oF": 0
 		},
+	"\/backup.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/backup.html",
+		"oF": 0
+		},
 	"\/blogFour.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -193,6 +199,12 @@
 		"oAP": "\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
+	"\/hosting.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/hosting.html",
+		"oF": 0
+		},
 	"\/images\/about_app.jpg": {
 		"ft": 16384,
 		"iS": 161735,
@@ -289,6 +301,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/backup_bg.jpg": {
+		"ft": 16384,
+		"iS": 65224,
+		"oA": 0,
+		"oAP": "\/images\/backup_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/backup_main.jpg": {
+		"ft": 16384,
+		"iS": 72232,
+		"oA": 0,
+		"oAP": "\/images\/backup_main.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/bg1.jpg": {
 		"ft": 16384,
 		"iS": 180113,
@@ -353,6 +381,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/camera_bg.jpg": {
+		"ft": 16384,
+		"iS": 45942,
+		"oA": 0,
+		"oAP": "\/images\/camera_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/camera_main.jpg": {
+		"ft": 16384,
+		"iS": 77435,
+		"oA": 0,
+		"oAP": "\/images\/camera_main.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/career.jpg": {
 		"ft": 16384,
 		"iS": 37086,
@@ -406,6 +450,38 @@
 		"iS": 48804,
 		"oA": 0,
 		"oAP": "\/images\/feedback_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/hosting_bg.jpg": {
+		"ft": 16384,
+		"iS": 123672,
+		"oA": 0,
+		"oAP": "\/images\/hosting_bg.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/hosting_main.jpg": {
+		"ft": 16384,
+		"iS": 47245,
+		"oA": 0,
+		"oAP": "\/images\/hosting_main.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/hosting_second.jpg": {
+		"ft": 16384,
+		"iS": 82122,
+		"oA": 0,
+		"oAP": "\/images\/hosting_second.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/hosting_third.jpg": {
+		"ft": 16384,
+		"iS": 73450,
+		"oA": 0,
+		"oAP": "\/images\/hosting_third.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -664,6 +740,22 @@
 		"iS": 77197,
 		"oA": 0,
 		"oAP": "\/images\/security_ninja.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/sieci_bg.jpg": {
+		"ft": 16384,
+		"iS": 80030,
+		"oA": 0,
+		"oAP": "\/images\/sieci_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/sieci_main.jpg": {
+		"ft": 16384,
+		"iS": 70355,
+		"oA": 0,
+		"oAP": "\/images\/sieci_main.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -2199,10 +2291,22 @@
 		"oAP": "\/login.html",
 		"oF": 0
 		},
+	"\/monitoring.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/monitoring.html",
+		"oF": 0
+		},
 	"\/o-firmie.html": {
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/o-firmie.html",
+		"oF": 0
+		},
+	"\/sieci.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sieci.html",
 		"oF": 0
 		},
 	"\/systemy.html": {
