@@ -17,7 +17,10 @@
       <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 
     <!-- Bootstrap -->
+    <link href="css/aos.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/jquery.cookiebar.css" />
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -249,19 +252,64 @@
             <!-- Section O nas -->
 
             <section id="oNas" >
-              <div class="container-fluid">
+              <div class="container-fluid outerMagme">
                 <div class="row">
-                      <div class="leftMagme col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                          <div class="jumbotron magme">
-                            <div class="outerMagme">
-                              <h1>We <span class="lnr lnr-heart-pulse"></span> Technology.</h1>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate quidem quaerat, pariatur, aut maiores nulla obcaecati explicabo deserunt totam, tenetur laudantium numquam ratione sapiente voluptate possimus non, quam ex aspernatur.</p>
-                                  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
-                            </div>
-                          </div>
+                      <div class="leftMagme col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                          <h1>We <span class="lnr lnr-heart-pulse"></span> Technology</h1>
+                          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate quidem quaerat, pariatur, aut maiores nulla obcaecati explicabo deserunt totam, tenetur laudantium numquam ratione sapiente voluptate possimus non, quam ex aspernatur.</p>
+                          <a href="#">Dowiedz się więcej <span class="lnr lnr-arrow-right"></span> </a>
+                       </div>
+                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6" data-aos="fade-left" data-aos-duration="600">
+                              <img src="images/Iphones_Home.png" alt="" class="img-responsive" width="600px;">
                        </div>
                 </div>
               </div>
+              <div class="container-fluid">
+                <div class="row below">
+                    <div class="outerMagme">
+                      <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+                        <img src="images/mac_home.png" alt="" data-aos="fade-right" data-aos-duration="1000" class="img-responsive">
+                      </div>
+                      <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                        <h1>We love Code</h1>
+                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, adipisci tenetur distinctio mollitia incidunt nihil dolore obcaecati
+                        <a href="#"> <span class="lnr lnr-arrow-left"></span> Sprawdź nas!</a>
+                        </p>
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </section>
+
+            <section id="klienci">
+              <div class="container-fluid">
+                <div class="row outerMagme">
+                  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                    <h2>Nasi Klienci</h2>
+                    <a href="#"> Pracuj z nami! <span class="lnr lnr-arrow-right"></span></a>
+                  </div>
+                </div>
+              <div class="boxLogo">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                      <img src="images/logo1.jpg" alt="" width="200px" class="img-responsive magmeAnimation">
+                    </div>
+                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                      <img src="images/logo2.jpg" alt="" width="200px" class="img-responsive magmeAnimation">
+                    </div>
+                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                      <img src="images/logo3.jpg" alt="" width="200px" class="img-responsive magmeAnimation">
+                    </div>
+                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                      <img src="images/logo4.jpg" alt="" width="200px" class="img-responsive magmeAnimation">
+                    </div>
+                  </div>
+                  </div>
+                </div>
+
+              </div>
+
             </section>
 
             <section id="oferta">
@@ -322,6 +370,17 @@
               </div>
 
             </section>
+            <section id="GoogleMaps">
+              <div class="contanier-fluid">
+                <div class="row">
+                  <div class="col-md-12">
+                    <div id="map">
+                          <!-- GOOGLE MAPS  Szukaj funkcji initMAP w magmeScript.js -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
 
             <footer id="stopka">
                 <div class="container">
@@ -349,6 +408,11 @@
     <script src="js/bootstrap.js"></script>
     <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
     <script src="js/magmeScript.js"></script>
-     <script src="js/magmeScript.js"></script>
+     <script type="text/javascript" src="js/jquery.cookiebar.js"></script>
+     <script src="js/aos.js"></script>
+
+     <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAPQwHW9EgMCa_0EoPl09HjWiv7YXKhN9k&callback=initMap">
+    </script>
   </body>
 </html>
